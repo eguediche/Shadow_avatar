@@ -1,0 +1,8 @@
+    <label for="First name">
+        first name
+    </label>
+    <input type="text" placeholder="Francky"/>
+
+    display column
+flex direction
+align item start
